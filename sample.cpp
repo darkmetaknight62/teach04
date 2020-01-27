@@ -14,4 +14,5 @@ int main()
 {
    cout << "Teach 04" << endl;
    cout << "added text" << endl;
+   cout << "this is not the original text" << endl;
 }
