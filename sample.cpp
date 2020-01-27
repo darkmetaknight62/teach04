@@ -14,4 +14,5 @@ int main()
 {
    cout << "Teach 04" << endl;
    cout << "added text" << endl;
+  cout << "added text 2" << endl;
 }
