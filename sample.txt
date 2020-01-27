@@ -1,0 +1,9 @@
+/*
+
+teach04 for 246
+
+*/
+
+#include <iostream>
+
+cout << "Teach 04" << endl;
